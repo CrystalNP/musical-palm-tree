@@ -1,2 +1,2 @@
 # musical-palm-tree
-Badger
+Badge
